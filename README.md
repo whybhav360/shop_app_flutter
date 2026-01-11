@@ -11,7 +11,7 @@ A simple e-commerce application built with Flutter.
 
 ## Screenshots
 
-<img width="1080" height="2400" alt="Screenshot_20260111_202317" src="https://github.com/user-attachments/assets/2f94f351-8581-4df3-9534-f39431036463" />
+<img width="500" height="800" alt="Screenshot_20260111_202317" src="https://github.com/user-attachments/assets/2f94f351-8581-4df3-9534-f39431036463" />
 <img width="1080" height="2400" alt="Screenshot_20260111_202342" src="https://github.com/user-attachments/assets/4cc93686-8684-4e36-b285-99c12edad23a" />
 <img width="1080" height="2400" alt="Screenshot_20260111_202325" src="https://github.com/user-attachments/assets/f8ecdbac-4451-47bf-8ba4-79bb27331c4c" />
 
